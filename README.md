@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a recipe Flutter app.<br>I'm currently learning deepfake algorithms.<br>I'm currently working on a recipe app.<br><br>
+I'm currently learning deepfake algorithms.<br>I'm currently working on a AI app.<br><br>
 
 
 ## 🌐 Socials:
